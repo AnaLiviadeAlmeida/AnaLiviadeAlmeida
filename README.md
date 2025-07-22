@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👩‍💻 Ana Lívia 🎀
 
-<!--
-**AnaLiviadeAlmeida/AnaLiviadeAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estagiária na área de Sistemas  
+💻 Focada em **Java** / **Algoritmos** e atualmente aprendendo **Power BI**
 
-Here are some ideas to get you started:
+[🔗 Meu LinkedIn](https://www.linkedin.com/in/ana-livia-de-almeida-22918b319)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- Java ☕
+- Power BI 📊 (em aprendizado)
+- Git & GitHub 
+
+---
+
+### 📝 Em aprendizado
+
+- Lógica de programação
+- Algoritmos básicos
+- Visualização de dados com Power BI
+
+---
+
+### 📌 Sobre mim
+
+Sou apaixonada por tecnologia e wueto aprender mais sobre
