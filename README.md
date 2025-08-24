@@ -1,7 +1,7 @@
 ## 👩‍💻 Ana Lívia 🎀
 
 🎓 Estagiária na área de Sistemas  
-💻 Focada em **Java** / **Algoritmos** e atualmente aprendendo **Power BI**
+💻 Focada em **Java** / **Algoritmos** e atualmente aprendendo **Power BI**, **HTML**, **CSS**
 
 [🔗 Meu LinkedIn](https://www.linkedin.com/in/ana-livia-de-almeida-22918b319)
 
