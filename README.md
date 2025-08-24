@@ -25,4 +25,4 @@
 
 ### 📌 Sobre mim
 
-Sou apaixonada por tecnologia e wueto aprender mais sobre
+Sou apaixonada por tecnologia e quero aprender mais sobre
