@@ -3,9 +3,6 @@
 🎓 Estagiária na área de Sistemas  
 💻 Focada em **Java** / **Algoritmos** e atualmente aprendendo **Power BI**, **HTML**, **CSS**
 
-[🔗 Meu LinkedIn]
-[(in/ana-livia-d-22918b319)]
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
